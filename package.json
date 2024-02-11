@@ -3,7 +3,7 @@
     "description": "Custom templates plugin",
     "version": "1.0.0",
     "author": "Sharad Parmar",
-    "repository": "https://github.com/SharadParmar4142/monokle-template-plugin.git",
+    "repository": "https://github.com/SharadParmar4142/monokle-template-plugin",
     "monoklePlugin": {
       "modules": [
         {
